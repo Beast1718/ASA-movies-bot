@@ -9,7 +9,7 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = "5858004780:AAFA2q1zFSExnlBXtSHHnngM4RRcCgQ0P1U"
-URL = "https://asa-movies-bot-git-main-beast1718.vercel.app"
+URL = "https://asa-movies-bot.vercel.app"
 bot = Bot(TOKEN)
 
 
